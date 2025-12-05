@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+.mypy_cache/
+.pytest_cache/
+# Virtual environments
+.venv
+.venv/
+.idea
+.idea/
+# Cursor
+.cursor
+.cursor/
+.git/
+.windsurf
+.windsurf/
